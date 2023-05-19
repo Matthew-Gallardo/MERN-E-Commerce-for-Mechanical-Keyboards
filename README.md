@@ -1,9 +1,17 @@
-# Mech-Keyboard-E-Commerce
-MERN Stack E-commerce
-Frontend - In the frontend side, I used React as the frontend library. I used Redux for state management. Lastly I use React styled components library for basic designing of the interface.
-
-Backend - For the backend side, I used the Express library on top of Nodejs. I also use MongoDB as the database to store my data . I create REST APIs with Express and use these endpoints in the React frontend to interact with my backend part.
-
-For the payment - I used stripe api sandbox for credit cards etc.
-
-Postman- add, update , delete data
+#MERN Mechanical Keyboards E-commerce Website 
+| Category | Technology                                 |
+|----------|--------------------------------------------|
+| Frontend |                                            |
+|          | Library: React                              |
+|          | State Management: Redux                     |
+|          | UI Design: React Styled Components          |
+| Backend  |                                            |
+|          | Library: Express (built on top of Node.js)  |
+| Database |                                            |
+|          | Database: MongoDB                           |
+| API      |                                            |
+|          | API Type: REST APIs (created using Express) |
+| Payment  |                                            |
+|          | Payment API: Stripe API (sandbox for credit cards and payment processing) |
+| Tools    |                                            |
+|          | API Testing: Postman (used for adding, updating, and deleting data)      |
